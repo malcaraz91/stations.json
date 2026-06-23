@@ -1,0 +1,29 @@
+[
+  {
+    "name": "El Panda Show",
+    "url": "http://65.21.202.84:8062/",
+    "favicon": "https://cdn-radiotime-logos.tunein.com/s96692d.png",
+    "country": "Mexico",
+    "city": "Ciudad de México",
+    "tags": "cdmx,entretenimiento,show",
+    "language": "spanish"
+  },
+  {
+    "name": "LOS40: La Radio de los Conciertos",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_MEXICOAAC.aac",
+    "favicon": "https://los40es00.epimg.net/iconos/v3.x/v1.0/cabeceras/logo_40.png",
+    "country": "Mexico",
+    "city": "Ciudad de México",
+    "tags": "cdmx,musica",
+    "language": "spanish"
+  },
+  {
+    "name": "95.1 Amor Es 95.1 FM - XHBC-FM Ciudad Guzmán, Jalisco",
+    "url": "https://cast.zuperdns.net/9510/stream",
+    "favicon": "https://i.postimg.cc/1zTwBhtp/amores.jpg",
+    "country": "Mexico",
+    "city": "Guadalajara",
+    "tags": "gdl,musica",
+    "language": "spanish"
+  }
+]
