@@ -18,12 +18,21 @@
     "language": "spanish"
   },
   {
-    "name": "95.1 Amor Es 95.1 FM - XHBC-FM Ciudad Guzmán, Jalisco",
-    "url": "https://cast.zuperdns.net/9510/stream",
-    "favicon": "https://i.postimg.cc/1zTwBhtp/amores.jpg",
+    "name": "Fórmula Melódica - 97.9 FM - XETIA-FM ",
+    "url": "https://s2.yesstreaming.net:9085/stream",
+    "favicon": "https://cdn-radiotime-logos.tunein.com/s1626d.png",
     "country": "Mexico",
     "city": "Guadalajara",
     "tags": "Guadalajara,musica",
     "language": "spanish"
-  }
+  },
+{
+  "name": "San Miguel de Allende - 103.3 FM - XHSQ-FM",
+  "url": "https://stream.zeno.fm/2eu08p2k12quv",
+  "favicon": "https://i.postimg.cc/wTGz1SX9/radiosanmiguel1033.png",
+  "country": "Mexico",
+  "city": "León",
+  "tags": "León,musica",
+  "language": "spanish"
+}
 ]
