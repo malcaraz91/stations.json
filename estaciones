@@ -5,7 +5,7 @@
     "favicon": "https://cdn-radiotime-logos.tunein.com/s96692d.png",
     "country": "Mexico",
     "city": "Ciudad de México",
-    "tags": "cdmx,entretenimiento,show",
+    "tags": "Mexico City,entretenimiento,show",
     "language": "spanish"
   },
   {
@@ -14,7 +14,7 @@
     "favicon": "https://los40es00.epimg.net/iconos/v3.x/v1.0/cabeceras/logo_40.png",
     "country": "Mexico",
     "city": "Ciudad de México",
-    "tags": "cdmx,musica",
+    "tags": "Mexico City,musica",
     "language": "spanish"
   },
   {
@@ -23,7 +23,7 @@
     "favicon": "https://i.postimg.cc/1zTwBhtp/amores.jpg",
     "country": "Mexico",
     "city": "Guadalajara",
-    "tags": "gdl,musica",
+    "tags": "Guadalajara,musica",
     "language": "spanish"
   }
 ]
