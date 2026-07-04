@@ -18,6 +18,96 @@
     "language": "spanish"
   },
   {
+    "name": "Amor Solo POP",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR03_s01AAC.aac",
+    "favicon": "https://i.iheart.com/v3/re/new_assets/5c9bef57a47b1251f8a34e45",
+    "country": "Mexico",
+    "city": "Ciudad de México",
+    "tags": "Mexico City",
+    "language": "spanish"
+  },
+  {
+    "name": "Amor de Dos",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR02_s01AAC.aac",
+    "favicon": "https://los40es00.epimg.net/iconos/v3.x/v1.0/cabeceras/logo_40.png",
+    "country": "Mexico",
+    "city": "Ciudad de México",
+    "tags": "Mexico City",
+    "language": "spanish"
+  },
+  {
+    "name": "SIEMPRE GRUPEROS de LA COMADRE",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR07_s01AAC.aac",
+    "favicon": "https://i.iheart.com/v3/re/new_assets/5ced3f5677b0f30f02bf3386",
+    "country": "Mexico",
+    "city": "Ciudad de México",
+    "tags": "Mexico City",
+    "language": "spanish"
+  },
+  {
+    "name": "iHeart Radio Café",
+    "url": "http://stream.revma.ihrhls.com/zc6951/hls.m3u8",
+    "favicon": "https://i0.wp.com/radioinsight.com/wp-content/uploads/2020/08/coffeeshop.png?resize=200%2C200&ssl=1",
+    "country": "Mexico",
+    "city": "Ciudad de México",
+    "tags": "Mexico City",
+    "language": "spanish"
+  },
+  {
+    "name": "Cumbia Total",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR40_S01AAC.aac",
+    "favicon": "https://i.iheart.com/v3/re/new_assets/5eff662feea000ce70b6428a",
+    "country": "Mexico",
+    "city": "Ciudad de México",
+    "tags": "Mexico City",
+    "language": "spanish"
+  },
+  {
+    "name": "La Comadre Pa Bailar",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR08_s01AAC.aac",
+    "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq501NyBfwpuPpXmJvrUNWZTVwcUkOCDKbfBiayjiU6A&s=10",
+    "country": "Mexico",
+    "city": "Ciudad de México",
+    "tags": "Mexico City",
+    "language": "spanish"
+  },
+  {
+    "name": "iHeart Radio huele a los años 90",
+    "url": "https://stream.revma.ihrhls.com/zc6437",
+    "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpd4m7dAAw1T0Zu6pXdmhe9zNE4Xnrrzr6BQUl-JGReA&s",
+    "country": "Mexico",
+    "city": "Ciudad de México",
+    "tags": "Mexico City",
+    "language": "spanish"
+  },
+  {
+    "name": "iHeart Radio Minivan Rock",
+    "url": "https://stream.revma.ihrhls.com/zc10055/hls.m3u8",
+    "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr72uARB8pt_ZHjNCBRA-uk7IyFSuu6fk_4agJDNky8Q&s",
+    "country": "Mexico",
+    "city": "Ciudad de México",
+    "tags": "Mexico City",
+    "language": "spanish"
+  },
+  {
+    "name": "Llegó el Mariachi",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR34_s01AAC.aac",
+    "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLeA28kKD3QIpWt9L8utRUGmR6g-kSM0zmvHgKXU9Slw&s",
+    "country": "Mexico",
+    "city": "Ciudad de México",
+    "tags": "Mexico City",
+    "language": "spanish"
+  },
+  {
+    "name": "Let It Beat",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR27_s01AAC.aac",
+    "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDKFzoOSPwalzWmVaMrDf0LeI7Tv-EvhgYJe4z4fcoBw&s=10",
+    "country": "Mexico",
+    "city": "Ciudad de México",
+    "tags": "Mexico City",
+    "language": "spanish"
+  },
+  {
     "name": "Fórmula Melódica - 97.9 FM - XETIA-FM ",
     "url": "https://s2.yesstreaming.net:9085/stream",
     "favicon": "https://cdn-radiotime-logos.tunein.com/s1626d.png",
