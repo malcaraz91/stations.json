@@ -29,7 +29,7 @@
   {
     "name": "Amor de Dos",
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR02_s01AAC.aac",
-    "favicon": "https://los40es00.epimg.net/iconos/v3.x/v1.0/cabeceras/logo_40.png",
+    "favicon": "https://i.iheart.com/v3/re/new_assets/6231337bbe123875849470d7",
     "country": "Mexico",
     "city": "Ciudad de México",
     "tags": "Mexico City",
@@ -56,7 +56,7 @@
   {
     "name": "Cumbia Total",
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR40_S01AAC.aac",
-    "favicon": "https://i.iheart.com/v3/re/new_assets/5eff662feea000ce70b6428a",
+    "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB4N034yEaIuXrWy0ko6K9GK2pT8JvArPTKtLXVfmSxQ&s",
     "country": "Mexico",
     "city": "Ciudad de México",
     "tags": "Mexico City",
@@ -72,18 +72,18 @@
     "language": "spanish"
   },
   {
-    "name": "iHeart Radio huele a los años 90",
-    "url": "https://stream.revma.ihrhls.com/zc6437",
-    "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpd4m7dAAw1T0Zu6pXdmhe9zNE4Xnrrzr6BQUl-JGReA&s",
+    "name": "	Sounds Of Yesterday",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR30_s01AAC.aac",
+    "favicon": "https://i.iheart.com/v3/re/new_assets/5ed68bfa0eb90d6134a362ef",
     "country": "Mexico",
     "city": "Ciudad de México",
     "tags": "Mexico City",
     "language": "spanish"
   },
   {
-    "name": "iHeart Radio Minivan Rock",
-    "url": "https://stream.revma.ihrhls.com/zc10055/hls.m3u8",
-    "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr72uARB8pt_ZHjNCBRA-uk7IyFSuu6fk_4agJDNky8Q&s",
+    "name": "New Century by Match",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR04_s01AAC.aac",
+    "favicon": "https://i.iheart.com/v3/re/new_assets/5f64ba55e89ed47267cc5b52",
     "country": "Mexico",
     "city": "Ciudad de México",
     "tags": "Mexico City",
